@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MainPage</string>
+    <string name="titletext">行動掛號</string>
+    <string name="searchtext">搜尋醫師姓名</string>
+    <string name="search">Search</string>
+    <string name="b1">科別</string>
+    <string name="b2">> 醫師 </string>
 </resources>
